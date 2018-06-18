@@ -1,0 +1,12 @@
+{
+  "name": "@kicklox/babel-plugin-tenant-resolver",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "resolve": "1.7.1"
+  }
+}
